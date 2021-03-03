@@ -22,3 +22,9 @@ PATCH- update/Modify
     "phone": 2223334444
 }`
 """
+
+### find Python version
+`$ python -V`
+
+### find PIP version
+`$ python -m pip --version` | pip X.Y.Z from .../site-packages/pip (python X.Y)
