@@ -28,3 +28,6 @@ PATCH- update/Modify
 
 ### find PIP version
 `$ python -m pip --version` | pip X.Y.Z from .../site-packages/pip (python X.Y)
+
+### handling file upload with python
+`https://sumit-ghosh.com/articles/handling-file-upload-selenium-python/`
