@@ -30,10 +30,10 @@ print(resp.url)
 print(resp.encoding)
 
 #respose
-json_response =  resp.json()
+json_response = resp.json()
 assert json_response["total"] == 12, "total is not matching"
 print(json_response["total"])
 
 email = json_response["data"][0]["email"]
 assert email.endswith("@reqres.in"), "email format is not matching"
-assert json_response["data"][0]["last_name"] != None
+assert json_response["data"][0]["last_name"] is not None
