@@ -1,5 +1,14 @@
 import requests
+"""
+CRUD
+create- POST
+read- GET
+update- PUT/PATCH
+delete- DELETE
 
+PUT- update/Replace
+PATCH- update/Modify
+"""
 p = {"page": 2}
 resp = requests.get("https://reqres.in/api/users", params=p)
 
