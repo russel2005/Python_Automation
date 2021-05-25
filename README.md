@@ -31,3 +31,12 @@ PATCH- update/Modify
 
 ### handling file upload with python
 `https://sumit-ghosh.com/articles/handling-file-upload-selenium-python/`
+
+### Install pytest
+Run the following command in your command line:
+
+`pip install -U pytest`
+Check that you installed the correct version:
+
+`$ pytest --version`
+`pytest 6.2.4`
