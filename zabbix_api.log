@@ -1,0 +1,85 @@
+zabbix_api  :2023-12-21 12:11:41,886 - INFO: Zabbix API connected successfully...
+zabbix_api  :2023-12-21 12:11:41,890 - INFO: Find all Devices by Device/Host name: DD#300202
+zabbix_api  :2023-12-21 12:11:42,381 - INFO: List of Available Device Names for the Site: ['DD#300202-WAN1', 'DD#300202-AP1', 'DD#300202-FW1']
+zabbix_api  :2023-12-21 12:11:43,006 - INFO: Checking Status for Device/Host name: DD#300202-WAN1
+zabbix_api  :2023-12-21 12:11:43,008 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:11:43,312 - INFO: ValuemapDetails: []
+zabbix_api  :2023-12-21 12:11:43,313 - WARNING: Value Map Details Not Found
+zabbix_api  :2023-12-21 12:11:43,313 - INFO: Device Status: Bad - no data found
+zabbix_api  :2023-12-21 12:11:43,313 - INFO: Verify if the device:DD#300202-WAN1 has any problems or not.
+zabbix_api  :2023-12-21 12:11:45,572 - INFO: Checking Status for Device/Host name: DD#300202-AP1
+zabbix_api  :2023-12-21 12:11:45,573 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:11:45,921 - INFO: ValuemapDetails: []
+zabbix_api  :2023-12-21 12:11:45,921 - WARNING: Value Map Details Not Found
+zabbix_api  :2023-12-21 12:11:45,922 - INFO: Device Status: Bad - no data found
+zabbix_api  :2023-12-21 12:11:45,922 - INFO: Verify if the device:DD#300202-AP1 has any problems or not.
+zabbix_api  :2023-12-21 12:11:48,028 - INFO: Checking Status for Device/Host name: DD#300202-FW1
+zabbix_api  :2023-12-21 12:11:48,029 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:11:48,374 - INFO: ValuemapDetails: [{'valuemapid': '83', 'name': 'Alarm state', 'mappings': [{'value': '0', 'newvalue': 'Ok'}, {'value': '1', 'newvalue': 'Alarm'}]}]
+zabbix_api  :2023-12-21 12:11:48,376 - INFO: HostLastValue: Ok
+zabbix_api  :2023-12-21 12:11:48,377 - INFO: Device Status: Up
+zabbix_api  :2023-12-21 12:11:48,377 - INFO: Verify if the device:DD#300202-FW1 has any problems or not.
+zabbix_api  :2023-12-21 12:11:50,687 - INFO: Done Device:DD#300202-FW1 Status checking.....
+zabbix_api  :2023-12-21 12:11:50,688 - INFO: Find all Devices by Device/Host name: KFC#1435
+zabbix_api  :2023-12-21 12:11:51,111 - INFO: List of Available Device Names for the Site: ['KFC#1435-WAN1', 'KFC#1435-WAN2', 'KFC#1435-WAN3', 'KFC#1435-WAN4']
+zabbix_api  :2023-12-21 12:11:51,808 - INFO: Checking Status for Device/Host name: KFC#1435-WAN1
+zabbix_api  :2023-12-21 12:11:51,809 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:11:52,207 - INFO: ValuemapDetails: []
+zabbix_api  :2023-12-21 12:11:52,207 - WARNING: Value Map Details Not Found
+zabbix_api  :2023-12-21 12:11:52,208 - INFO: Device Status: Bad - no data found
+zabbix_api  :2023-12-21 12:11:52,208 - INFO: Verify if the device:KFC#1435-WAN1 has any problems or not.
+zabbix_api  :2023-12-21 12:11:54,466 - INFO: Checking Status for Device/Host name: KFC#1435-WAN2
+zabbix_api  :2023-12-21 12:11:54,466 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:11:54,768 - INFO: ValuemapDetails: []
+zabbix_api  :2023-12-21 12:11:54,769 - WARNING: Value Map Details Not Found
+zabbix_api  :2023-12-21 12:11:54,770 - INFO: Device Status: Bad - no data found
+zabbix_api  :2023-12-21 12:11:54,770 - INFO: Verify if the device:KFC#1435-WAN2 has any problems or not.
+zabbix_api  :2023-12-21 12:11:57,022 - INFO: Checking Status for Device/Host name: KFC#1435-WAN3
+zabbix_api  :2023-12-21 12:11:57,023 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:11:57,327 - INFO: ValuemapDetails: []
+zabbix_api  :2023-12-21 12:11:57,328 - WARNING: Value Map Details Not Found
+zabbix_api  :2023-12-21 12:11:57,328 - INFO: Device Status: Bad - no data found
+zabbix_api  :2023-12-21 12:11:57,329 - INFO: Verify if the device:KFC#1435-WAN3 has any problems or not.
+zabbix_api  :2023-12-21 12:11:59,685 - INFO: Checking Status for Device/Host name: KFC#1435-WAN4
+zabbix_api  :2023-12-21 12:11:59,685 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:00,092 - INFO: ValuemapDetails: []
+zabbix_api  :2023-12-21 12:12:00,093 - WARNING: Value Map Details Not Found
+zabbix_api  :2023-12-21 12:12:00,093 - INFO: Device Status: Bad - no data found
+zabbix_api  :2023-12-21 12:12:00,094 - INFO: Verify if the device:KFC#1435-WAN4 has any problems or not.
+zabbix_api  :2023-12-21 12:12:02,150 - INFO: Done Device:KFC#1435-WAN4 Status checking.....
+zabbix_api  :2023-12-21 12:12:02,151 - INFO: Find all Devices by Device/Host name: TB#009552
+zabbix_api  :2023-12-21 12:12:02,654 - INFO: List of Available Device Names for the Site: ['TB#009552-AP3']
+zabbix_api  :2023-12-21 12:12:03,273 - INFO: Checking Status for Device/Host name: TB#009552-AP3
+zabbix_api  :2023-12-21 12:12:03,274 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:03,274 - ERROR: Items is empty in the SiteDetails response: TB#009552-AP3.
+zabbix_api  :2023-12-21 12:12:03,274 - INFO: Verify if the device:TB#009552-AP3 has any problems or not.
+zabbix_api  :2023-12-21 12:12:03,275 - ERROR: No Triggers found for the device:TB#009552-AP3....
+zabbix_api  :2023-12-21 12:12:03,992 - INFO: Done Device:TB#009552-AP3 Status checking.....
+zabbix_api  :2023-12-21 12:12:03,993 - INFO: Find all Devices by Device/Host name: KFC#C029045
+zabbix_api  :2023-12-21 12:12:04,500 - INFO: List of Available Device Names for the Site: ['KFC#C029045-FoH', 'KFC#C029045-VPN', 'KFC#C029045-WAN1', 'KFC#C029045-BoH', 'KFC#C029045-EXT']
+zabbix_api  :2023-12-21 12:12:05,008 - INFO: Checking Status for Device/Host name: KFC#C029045-FoH
+zabbix_api  :2023-12-21 12:12:05,010 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:05,010 - ERROR: Items is empty in the SiteDetails response: KFC#C029045-FoH.
+zabbix_api  :2023-12-21 12:12:05,011 - INFO: Verify if the device:KFC#C029045-FoH has any problems or not.
+zabbix_api  :2023-12-21 12:12:05,011 - ERROR: No Triggers found for the device:KFC#C029045-FoH....
+zabbix_api  :2023-12-21 12:12:05,710 - INFO: Checking Status for Device/Host name: KFC#C029045-VPN
+zabbix_api  :2023-12-21 12:12:05,710 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:05,710 - ERROR: Items is empty in the SiteDetails response: KFC#C029045-VPN.
+zabbix_api  :2023-12-21 12:12:05,710 - INFO: Verify if the device:KFC#C029045-VPN has any problems or not.
+zabbix_api  :2023-12-21 12:12:05,710 - ERROR: No Triggers found for the device:KFC#C029045-VPN....
+zabbix_api  :2023-12-21 12:12:06,330 - INFO: Checking Status for Device/Host name: KFC#C029045-WAN1
+zabbix_api  :2023-12-21 12:12:06,330 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:06,330 - ERROR: Items is empty in the SiteDetails response: KFC#C029045-WAN1.
+zabbix_api  :2023-12-21 12:12:06,330 - INFO: Verify if the device:KFC#C029045-WAN1 has any problems or not.
+zabbix_api  :2023-12-21 12:12:06,331 - ERROR: No Triggers found for the device:KFC#C029045-WAN1....
+zabbix_api  :2023-12-21 12:12:07,060 - INFO: Checking Status for Device/Host name: KFC#C029045-BoH
+zabbix_api  :2023-12-21 12:12:07,060 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:07,060 - ERROR: Items is empty in the SiteDetails response: KFC#C029045-BoH.
+zabbix_api  :2023-12-21 12:12:07,061 - INFO: Verify if the device:KFC#C029045-BoH has any problems or not.
+zabbix_api  :2023-12-21 12:12:07,062 - ERROR: No Triggers found for the device:KFC#C029045-BoH....
+zabbix_api  :2023-12-21 12:12:07,795 - INFO: Checking Status for Device/Host name: KFC#C029045-EXT
+zabbix_api  :2023-12-21 12:12:07,795 - INFO: Verify the status of the device (Up or Down).
+zabbix_api  :2023-12-21 12:12:07,796 - ERROR: Items is empty in the SiteDetails response: KFC#C029045-EXT.
+zabbix_api  :2023-12-21 12:12:07,796 - INFO: Verify if the device:KFC#C029045-EXT has any problems or not.
+zabbix_api  :2023-12-21 12:12:07,797 - ERROR: No Triggers found for the device:KFC#C029045-EXT....
+zabbix_api  :2023-12-21 12:12:08,428 - INFO: Done Device:KFC#C029045-EXT Status checking.....
