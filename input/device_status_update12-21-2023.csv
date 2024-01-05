@@ -1,0 +1,8 @@
+device_name,status,problem
+DD#300202-WAN1,Bad - no data found,No Problems found
+DD#300202-AP1,Bad - no data found,No Problems found
+DD#300202-FW1,Good,No Problems found
+KFC#1435-WAN1,Bad - no data found,No Problems found
+KFC#1435-WAN2,Bad - no data found,No Problems found
+KFC#1435-WAN3,Bad - no data found,No Problems found
+KFC#1435-WAN4,Bad - no data found,No Problems found
