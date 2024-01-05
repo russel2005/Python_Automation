@@ -40,3 +40,19 @@ Check that you installed the correct version:
 
 `$ pytest --version`
 `pytest 6.2.4`
+
+# python version
+`>python --version or python -V`
+
+# create environment variable before install packages
+`1)>python -m venv <env_name>`
+`2)>.<env_name>\Scripts\activate`
+`3)>pip install -r requirements.txt`
+`4)>pip list`
+
+# deactivate
+5)>dactivate
+
+
+
+
