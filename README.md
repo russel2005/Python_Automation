@@ -9,11 +9,13 @@ PUT- update/Replace
 PATCH- update/Modify
 
 """in PUT: all properties of the object be provided while making request, if record is not exist then create new. |
-```text{
+```text
+{
     "name" : "russel",
     "phone": 2129994444,
     "address: "32 maple ave"
-}```
+}
+```
 
 """
 
