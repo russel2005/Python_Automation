@@ -16,14 +16,12 @@ PATCH- update/Modify
     "address: "32 maple ave"
 }
 ```
-
-"""
-
-"""in PATCH: specific properties can only update
-`{
+in PATCH: specific properties can only update
+```text
+{
     "phone": 2223334444
-}`
-"""
+}
+```
 
 ### find Python version
 `$ python -V`
@@ -47,11 +45,12 @@ Check that you installed the correct version:
 `>python --version or python -V`
 
 ### create environment variable before install packages
-`1)>python -m venv <env_name>`
-`2)>.<env_name>\Scripts\activate`
-`3)>pip install -r requirements.txt`
-`4)>pip list`
-
+```text
+1)>python -m venv <env_name>
+2)>.<env_name>\Scripts\activate
+3)>pip install -r requirements.txt
+4)>pip list
+```
 # deactivate
 5)>dactivate
 
