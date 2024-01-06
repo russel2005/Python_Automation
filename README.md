@@ -9,11 +9,11 @@ PUT- update/Replace
 PATCH- update/Modify
 
 """in PUT: all properties of the object be provided while making request, if record is not exist then create new. |
-`{
+```text{
     "name" : "russel",
     "phone": 2129994444,
     "address: "32 maple ave"
-}`
+}```
 
 """
 
@@ -41,10 +41,10 @@ Check that you installed the correct version:
 `$ pytest --version`
 `pytest 6.2.4`
 
-# python version
+### python version
 `>python --version or python -V`
 
-# create environment variable before install packages
+### create environment variable before install packages
 `1)>python -m venv <env_name>`
 `2)>.<env_name>\Scripts\activate`
 `3)>pip install -r requirements.txt`
